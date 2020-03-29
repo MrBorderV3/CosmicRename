@@ -1,0 +1,26 @@
+noPermission: '&cYou may not execute this command!'
+targetOffline: '&b%target%&c Is either offline or does not exist!'
+
+Renamer:
+  received: '&7[&5&lCR&7] &bYou have been given a Cosmic Renamer!'
+  gave: '&7[&5&lCR&7] &bYou have gave &6%target%&b a Cosmic Renamer!'
+  incorrect-usage: '&cIncorrect usage! The correct usage is &b/renamer give <name>'
+  Item:
+    displayName: '&b&l*&5&lCosmicRenamer&b&l*'
+    lore:
+      - '&a&kaa&5&lCos&d&ke&5&lmic&a&kaaa'
+      - ''
+      - '&7((Right click this item to start the renaming process))'
+
+Rename:
+  notWhitelisted: '&7[&5&lCR&7] &cError! The item you are trying to rename is not whitelisted!'
+  startingProcess: '&7[&5&lCR&7]&b Starting the &5Cosmic Rename&b process! Please pick the item you would like to rename!'
+  pickName: '&7[&5&lCR&7]&b Please type out the name (You may use color codes) you would like for your item!'
+  pleaseConfirm: '&7[&5&lCR&7] &bYou have picked the name &6%name%&b for your item! please type &aconfirm&b to confirm the renaming or &ccancel&b to cancel!'
+  mustBeConfirmOrCancel: '&7[&5&lCR&7]&c Error! You must type either confirm to confirm the renaming or cancel to cancel the renaming!'
+  confirmed: '&7[&5&lCR&7]&a Rename confirmed!'
+  cancelled: '&7[&5&lCR&7]&c Rename cancelled!'
+
+Whitelist:
+  - STONE
+  - OBSIDIAN

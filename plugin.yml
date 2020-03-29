@@ -1,0 +1,8 @@
+name: CosmicRename
+main: me.border.cosmicrename.CosmicRename
+version: 1.0
+api-version: 1.15
+author: MrBorder
+commands:
+  renamer:
+    description: Get a renamer
